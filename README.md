@@ -1,2 +1,2 @@
-# Meu primeiro projeto com Git
-projeto
+# Teste de Git do Menor Aprendiz
+Este repositório foi criado para avaliar testes prática dos conceitos fundamentais de Git e GitHub. O objetivo é demonstrar na prática o uso de branches, commits semânticos, Pull Requests e a resolução de conflitos via terminal, seguindo as boas práticas de fluxo de trabalho de desenvolvimento.
