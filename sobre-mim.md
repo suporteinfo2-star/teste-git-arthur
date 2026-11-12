@@ -6,3 +6,8 @@ Sou o Arthur e estou realizando este teste prático para testar meus conheciment
 - Jogar
 - Brincar
 - Assistir algo
+
+## O que quero aprender
+
+- Ter uma certa habilidade em relação ao uso do GitHub
+- Aprender quando e como usar comandos do Git
