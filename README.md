@@ -1,2 +1,2 @@
-# teste-git-arthur
+# Meu primeiro projeto com Git
 projeto
