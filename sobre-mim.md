@@ -4,7 +4,7 @@ Sou o Arthur e estou realizando este teste prático para testar meus conheciment
 
 ## Hobbies
 - Jogar
-- Brincar
+- Comer
 - Assistir algo
 
 ## O que quero aprender
