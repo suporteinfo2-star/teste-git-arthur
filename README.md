@@ -1,2 +1,2 @@
-# teste-git-arthur
+# Teste de Git do Menor Aprendiz
 projeto
